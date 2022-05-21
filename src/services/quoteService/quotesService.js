@@ -1,0 +1,1 @@
+export const getQuote = () => fetch(process.env.NODE_ENV)
